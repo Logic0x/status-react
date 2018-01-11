@@ -1,0 +1,3 @@
+sudo: true
+
+install: scripts/setup
